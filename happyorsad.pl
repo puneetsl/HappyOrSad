@@ -77,7 +77,8 @@ foreach $enter(@bigramArr){
 					{
 						if($3>=0 and $4>=0)
 						{
-							#I know, I know, 6 level of indentation. WTF! :P
+							#I know, I know, "6 level of indentation. WTH!" :P
+							#Soon would port it to Java and with better code,Relax!
 							@q1[0]=@q1[0]+$3;
 							@q1[1]=@q1[1]+$4;
 							$qw1++;
