@@ -17,3 +17,8 @@ http://mytwitmood.tutafuta.com/
   Happy:	82.56% :-)<br>
   Sad:	17.44% :-(<br>
 
+## Dictionary taken from ##
+https://code.google.com/p/negotiations-ling773/source/browse/trunk/resources/LIWC2007.dic?r=2
+
+## References ##
+Pennebaker, J.W., Francis, M.E., & Booth, R.J. (2001). Linguistic Inquiry and Word Count: LIWC2001. Mahwah, NJ: Erlbaum Publishers (www.erlbaum.com).
