@@ -26,4 +26,4 @@ https://code.google.com/p/negotiations-ling773/source/browse/trunk/resources/LIW
 Puneet Singh, et al. "Architecture for Automated Tagging and Clustering of Song Files According to Mood." International Journal of Computer Science Issues (IJCSI) 7.4 (2010).
 
 ## References ##
-Pennebaker, J.W., Francis, M.E., & Booth, R.J. (2001). Linguistic Inquiry and Word Count: LIWC2001. Mahwah, NJ: Erlbaum Publishers (www.erlbaum.com).
+Pennebaker, J.W., Chung, C.K., Ireland, M., Gonzales, A., & Booth, R.J. (2007). The development and psychometric properties of LIWC2007. [Software manual]. Austin, TX (www.liwc.net)
