@@ -21,6 +21,17 @@ Sad:	17.44% :-(<br>
 Created my own dictionary for bigram analysis also used LIWC2007 dictionary from this source<br>
 https://code.google.com/p/negotiations-ling773/source/browse/trunk/resources/LIWC2007.dic?r=2
 
+## Added 3 poems ##
+I have added 3 poems as test cases for showing the use and accuracy of the results. <br>
+Run using:<br>
+perl happyorsad.pl poem1.txt<br>
+<br>
+Output:<br>
+This text is so Sad!<br>
+Happy:	16.79% :-)<br>
+Sad:	83.21% :-(<br>
+
+
 ## Cite me ##
 <b>In case you use this project please cite me using this citation:</b><br>
 Puneet Singh, et al. "Architecture for Automated Tagging and Clustering of Song Files According to Mood." International Journal of Computer Science Issues (IJCSI) 7.4 (2010).
